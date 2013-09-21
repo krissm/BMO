@@ -1,2 +1,2 @@
 <?php
-echo "wohoo!";
+echo "wohooerror2!";
